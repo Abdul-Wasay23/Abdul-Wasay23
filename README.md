@@ -80,6 +80,3 @@ Responsive JavaScript web interface
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-Wasay23&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Wasay23&layout=compact)
