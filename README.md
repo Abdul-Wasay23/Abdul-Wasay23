@@ -72,6 +72,13 @@ WordPress Customization • Shopify Customization • Git & GitHub
   | [💻 Code](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/tree/main/001-MedRx-Management-Llc)
   | [📘 README](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/001-MedRx-Management-Llc/README.md)
 
+- **002-Devnest**  
+  Corporate / business-style frontend website  
+  **Tech:** HTML • CSS • JavaScript  
+  [👁️ View](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/002-Devnest/Devnest-View.png)
+  | [💻 Code](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/tree/main/002-Devnest)
+  | [📘 README](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/002-Devnest/README.md)
+
 ---
 
 ### ⚛️ React Projects
