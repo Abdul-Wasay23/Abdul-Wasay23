@@ -83,10 +83,6 @@ WordPress Customization • Shopify Customization • Git & GitHub
 
 ### ⚛️ React Projects
 
-- **Devnest Web**  
-  Frontend UI project built using React  
-  **Tech:** React • JavaScript • CSS  
-  🔗 [GitHub Repo](https://github.com/Abdul-Wasay23/Devnest-Web)
 
 ---
 
