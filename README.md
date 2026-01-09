@@ -61,22 +61,41 @@ WordPress Customization • Shopify Customization • Git & GitHub
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 💇 Nuvora Saloon
-Salon management system (Academic project)  
-**Tech:** HTML • CSS • JavaScript • PHP • Laravel  
-🔗 [GitHub Repo](https://github.com/Abdul-Wasay23/Nuvora-Saloon)
+### 🧩 Frontend Projects (HTML • CSS • JavaScript)
 
-### 🌐 Devnest Web
-Frontend UI project using React  
-**Tech:** React • JavaScript • CSS  
-🔗 [GitHub Repo](https://github.com/Abdul-Wasay23/Devnest-Web)
-
-### 📱 M-M-TEL1
-Responsive JavaScript web interface  
-**Tech:** HTML • CSS • JavaScript  
-🔗 [GitHub Repo](https://github.com/Abdul-Wasay23/M-M-TEL1)
+- **001-MedRx-Management-Llc**  
+  Modern responsive frontend website  
+  **Tech:** HTML • CSS • JavaScript  
+  [👁️ View](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/001-MedRx-Management-Llc/MedRx-View.jpg)
+  | [💻 Code](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/tree/main/001-MedRx-Management-Llc)
+  | [📘 README](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/001-MedRx-Management-Llc/README.md)
 
 ---
 
+### ⚛️ React Projects
+
+- **Devnest Web**  
+  Frontend UI project built using React  
+  **Tech:** React • JavaScript • CSS  
+  🔗 [GitHub Repo](https://github.com/Abdul-Wasay23/Devnest-Web)
+
+---
+
+### 🎨 Tailwind CSS Projects
+
+🚧 *Projects coming soon — currently building modern UIs using Tailwind CSS.*
+
+---
+
+### ⚙️ PHP / Laravel Projects
+
+- **Nuvora Saloon**  
+  Salon management system (Academic project)  
+  **Tech:** HTML • CSS • JavaScript • PHP • Laravel  
+  🔗 [GitHub Repo](https://github.com/Abdul-Wasay23/Nuvora-Saloon)
+
+---
+
+⭐ Feel free to explore my repositories and connect with me for collaboration!
