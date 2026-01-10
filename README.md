@@ -1,63 +1,76 @@
 ## Hi there 👋, I'm Abdul Wasay
 
-### 👨‍💻 Frontend Developer | 1+ yr experience
+### 👨‍💻 Frontend Developer | 1+ Year Experience
 
 ⚛️ React • 💻 JavaScript • 🌐 HTML • 🎨 CSS  
-🛒 Shopify • 📝 WordPress • ⚙️ PHP & Laravel (basic)  
-✨ Clean UI & Performance-focused  
+🛒 Shopify • 📝 WordPress • ⚙️ PHP & Laravel (Basic)  
+✨ Clean UI & Performance-focused Development  
 
-📍 Based in Karachi, Pakistan  
+📍 Karachi, Pakistan  
 💼 Frontend Developer at ProByte (Pvt) Ltd.  
-🔗 [LinkedIn](https://www.linkedin.com/in/abdul-wasay-219709292/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/abdul-wasay-219709292/)
 
 ---
 
-## 🔭 I’m currently working on
-- Developing responsive web applications using React and modern JavaScript  
-- Enhancing performance & UI optimization in projects  
-- Exploring API integration and advanced frontend techniques  
+## 🔭 Currently Working On
+- Responsive web applications using React & modern JavaScript  
+- UI optimization & performance improvements  
+- API integration and advanced frontend techniques  
 
-## 🌱 I’m currently learning
+---
+
+## 🌱 Currently Learning
 - Advanced React & Next.js  
 - Tailwind CSS & modern UI libraries  
-- More backend with PHP & Laravel to strengthen full-stack knowledge  
+- Backend fundamentals with PHP & Laravel  
 
-## 👯 I’m looking to collaborate on
+---
+
+## 👯 Looking to Collaborate On
 - Open-source frontend projects  
-- UI/UX focused web apps  
+- UI/UX-focused web applications  
 - WordPress & Shopify customizations  
 
-## 🤔 I’m looking for help with
-- Best practices for scaling React applications  
-- Optimized code architecture for large projects  
+---
 
-## 💬 Ask me about
+## 🤔 Looking for Help With
+- Scaling large React applications  
+- Optimized architecture & best practices  
+
+---
+
+## 💬 Ask Me About
 - Frontend Development (React, JS, HTML, CSS)  
 - Shopify & WordPress customization  
 - Basic backend integration (PHP & Laravel)  
 
-## 📫 How to reach me
-- Email: [wasay4546@gmail.com](mailto:wasay4546@gmail.com)  
-- LinkedIn: [linkedin.com/in/abdul-wasay-219709292](https://www.linkedin.com/in/abdul-wasay-219709292/)  
+---
+
+## 📫 Contact Me
+- 📧 Email: [wasay4546@gmail.com](mailto:wasay4546@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/abdul-wasay-219709292](https://www.linkedin.com/in/abdul-wasay-219709292/)  
+
+---
 
 ## 😄 Pronouns
 He / Him  
 
-## ⚡ Fun fact
-- Coffee lover ☕ and always experimenting with new UI designs  
+## ⚡ Fun Fact
+☕ Coffee lover & always experimenting with new UI designs  
 
 ---
 
 ## 🛠 Skills
 
-**Frontend:**  
-HTML5 • CSS3 • JavaScript (ES6+) • React.js • Responsive Design • Performance Optimization  
+### Frontend
+HTML5 • CSS3 • JavaScript (ES6+) • React.js  
+Responsive Design • Performance Optimization  
 
-**Backend (Basic):**  
+### Backend (Basic)
 PHP • Laravel  
 
-**CMS / Tools:**  
-WordPress Customization • Shopify Customization • Git & GitHub  
+### CMS / Tools
+WordPress • Shopify • Git & GitHub  
 
 ---
 
@@ -65,39 +78,56 @@ WordPress Customization • Shopify Customization • Git & GitHub
 
 ### 🧩 Frontend Projects (HTML • CSS • JavaScript)
 
-- **001-MedRx-Management-Llc**  
-  Modern Corporate frontend website  
-  **Tech:** HTML • CSS • JavaScript  
-  [👁️ View](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/001-MedRx-Management-Llc/MedRx-View.jpg)
-  | [💻 Code](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/tree/main/001-MedRx-Management-Llc)
-  | [📘 README](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/001-MedRx-Management-Llc/README.md)
+#### **001-MedRx-Management-Llc**
+Modern corporate frontend website  
+**Tech:** HTML • CSS • JavaScript  
 
-- **002-Devnest**  
-  Corporate / business-style frontend website  
-  **Tech:** HTML • CSS • JavaScript  
-  [👁️ View](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/002-Devnest/Devnest-View.png)
-  | [💻 Code](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/tree/main/002-Devnest)
-  | [📘 README](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/002-Devnest/README.md)
+[👁️ View](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/001-MedRx-Management-Llc/MedRx-View.jpg)
+| [💻 Code](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/tree/main/001-MedRx-Management-Llc)
+| [⬇️ Download](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/raw/main/001-MedRx-Management-Llc/001-MedRx-Management-Llc.zip)
+| [📘 README](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/001-MedRx-Management-Llc/README.md)
+
+---
+
+#### **002-Devnest**
+Corporate / business-style frontend website  
+**Tech:** HTML • CSS • JavaScript  
+
+[👁️ View](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/002-Devnest/Devnest-View.png)
+| [💻 Code](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/tree/main/002-Devnest)
+| [⬇️ Download](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/raw/main/002-Devnest/002-Devnest.zip)
+| [📘 README](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/002-Devnest/README.md)
+
+---
+
+#### **003-Mobile-Master**
+E-commerce frontend website for a mobile accessories & repair store  
+**Tech:** HTML • CSS • JavaScript  
+
+[👁️ View](./003-Mobile-Master/MobileMaster-View.png)
+| [💻 Code](./003-Mobile-Master)
+| [⬇️ Download](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/raw/main/003-Mobile-Master/003-Mobile-Master.zip)
+| [📘 README](./003-Mobile-Master/README.md)
 
 ---
 
 ### ⚛️ React Projects
-
+🚧 *Coming soon — building scalable React applications.*
 
 ---
 
 ### 🎨 Tailwind CSS Projects
-
-🚧 *Projects coming soon — currently building modern UIs using Tailwind CSS.*
+🚧 *Coming soon — modern UI development with Tailwind CSS.*
 
 ---
 
 ### ⚙️ PHP / Laravel Projects
 
-- **Nuvora Saloon**  
-  Salon management system (Academic project)  
-  **Tech:** HTML • CSS • JavaScript • PHP • Laravel  
-  🔗 [GitHub Repo](https://github.com/Abdul-Wasay23/Nuvora-Saloon)
+#### **Nuvora Saloon**
+Salon management system (Academic Project)  
+**Tech:** HTML • CSS • JavaScript • PHP • Laravel  
+
+🔗 [GitHub Repository](https://github.com/Abdul-Wasay23/Nuvora-Saloon)
 
 ---
 
