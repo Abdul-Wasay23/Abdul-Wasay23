@@ -66,7 +66,7 @@ WordPress Customization • Shopify Customization • Git & GitHub
 ### 🧩 Frontend Projects (HTML • CSS • JavaScript)
 
 - **001-MedRx-Management-Llc**  
-  Modern responsive frontend website  
+  Modern Corporate frontend website  
   **Tech:** HTML • CSS • JavaScript  
   [👁️ View](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/001-MedRx-Management-Llc/MedRx-View.jpg)
   | [💻 Code](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/tree/main/001-MedRx-Management-Llc)
