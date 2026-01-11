@@ -76,7 +76,10 @@ WordPress • Shopify • Git & GitHub
 
 ## 🚀 Projects
 
-### 🧩 Frontend Projects (HTML • CSS • JavaScript)
+---
+
+### 🧩 Frontend Projects (HTML • CSS • JavaScript)  
+[👁️ View All Projects](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-) | [📘 View README](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/README.md)
 
 #### **001-MedRx-Management-Llc**
 Modern corporate frontend website  
@@ -111,13 +114,22 @@ E-commerce frontend website for a mobile accessories & repair store
 
 ---
 
-### ⚛️ React Projects
-🚧 *Coming soon — building scalable React applications.*
+### 🎨 Tailwind CSS Projects  
+[👁️ View All Projects](https://github.com/Abdul-Wasay23/Tailwind-Projects) | [📘 View README](https://github.com/Abdul-Wasay23/Tailwind-Projects/blob/main/README.md)
+
+#### **001-Coastal-Beef**
+E-commerce frontend website built with Tailwind CSS  
+**Tech:** HTML • Tailwind CSS • JavaScript  
+
+[👁️ View](https://github.com/Abdul-Wasay23/Tailwind-Projects/blob/main/001-Coastal-Beef/Coastal-Beef-View.png)
+| [💻 Code](https://github.com/Abdul-Wasay23/Tailwind-Projects/tree/main/001-Coastal-Beef)
+| [⬇️ Download](https://github.com/Abdul-Wasay23/Tailwind-Projects/raw/main/001-Coastal-Beef/001-Coastal-Beef.zip)
+| [📘 README](https://github.com/Abdul-Wasay23/Tailwind-Projects/blob/main/001-Coastal-Beef/README.md)
 
 ---
 
-### 🎨 Tailwind CSS Projects
-🚧 *Coming soon — modern UI development with Tailwind CSS.*
+### ⚛️ React Projects
+🚧 *Coming soon — building scalable React applications.*
 
 ---
 
