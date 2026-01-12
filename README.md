@@ -63,7 +63,7 @@ He / Him
 ## 🛠 Skills
 
 ### Frontend
-HTML5 • CSS3 • JavaScript (ES6+) • React.js  
+HTML5 • Tailwind CSS • CSS3 • JavaScript (ES6+) • React.js  
 Responsive Design • Performance Optimization  
 
 ### Backend (Basic)
