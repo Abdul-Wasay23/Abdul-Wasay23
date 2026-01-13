@@ -121,7 +121,7 @@ E-commerce frontend website for a mobile accessories & repair store
 E-commerce frontend website built with Tailwind CSS  
 **Tech:** HTML • Tailwind CSS • JavaScript  
 
-[👁️ View](https://github.com/Abdul-Wasay23/Tailwind-Projects/blob/main/001-Coastal-Beef/Coastal-Beef-View.png)
+[👁️ View](https://github.com/Abdul-Wasay23/Tailwind-Projects/blob/main/001-Coastal-Beef/Coastal-Beef-Desktop-View.png)
 | [💻 Code](https://github.com/Abdul-Wasay23/Tailwind-Projects/tree/main/001-Coastal-Beef)
 | [⬇️ Download](https://github.com/Abdul-Wasay23/Tailwind-Projects/raw/main/001-Coastal-Beef/001-Coastal-Beef.zip)
 | [📘 README](https://github.com/Abdul-Wasay23/Tailwind-Projects/blob/main/001-Coastal-Beef/README.md)
