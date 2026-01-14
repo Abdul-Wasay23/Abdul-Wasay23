@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Abdul Wasay
 
-### 👨‍💻 Frontend Developer | 1+ Year Experience
+### 👨‍💻 Frontend Developer | 2+ Year Experience
 
 ⚛️ React • 💻 JavaScript • 🌐 HTML • 🎨 CSS  
 🛒 Shopify • 📝 WordPress • ⚙️ PHP & Laravel (Basic)  
@@ -9,6 +9,32 @@
 📍 Karachi, Pakistan  
 💼 Frontend Developer at ProByte (Pvt) Ltd.  
 🔗 [LinkedIn](https://www.linkedin.com/in/abdul-wasay-219709292/)
+
+---
+
+## 💼 Work Experience
+
+### **Junior Front-End Developer**  
+**ProByte (Pvt) Ltd.** — Karachi, Pakistan  
+**March 2024 – Present | Full-time**
+
+- Developed and maintained responsive user interfaces using **HTML, CSS, JavaScript, and React.js**
+- Converted **UI/UX designs** into high-quality, reusable, and optimized frontend components
+- Integrated frontend applications with **backend APIs** for smooth data flow
+- Assisted in backend development using **PHP and Laravel**
+- Customized **WordPress and Shopify** websites for improved performance and UX
+- Ensured **cross-browser compatibility** and mobile responsiveness
+- Collaborated with team members to debug and enhance functionality
+
+---
+
+### **Front-End Developer (Intern)**  
+**ProByte (Pvt) Ltd.** — Karachi, Pakistan  
+**Jan 2024 – March 2024**
+
+- Worked on real-world frontend tasks using **HTML, CSS, and JavaScript**
+- Assisted senior developers in building responsive UI layouts
+- Learned Git workflows and team-based development practices
 
 ---
 
@@ -30,12 +56,6 @@
 - Open-source frontend projects  
 - UI/UX-focused web applications  
 - WordPress & Shopify customizations  
-
----
-
-## 🤔 Looking for Help With
-- Scaling large React applications  
-- Optimized architecture & best practices  
 
 ---
 
@@ -63,7 +83,7 @@ He / Him
 ## 🛠 Skills
 
 ### Frontend
-HTML5 • Tailwind CSS • CSS3 • JavaScript (ES6+) • React.js  
+HTML5 • CSS3 • Tailwind CSS • JavaScript (ES6+) • React.js  
 Responsive Design • Performance Optimization  
 
 ### Backend (Basic)
@@ -76,10 +96,10 @@ WordPress • Shopify • Git & GitHub
 
 ## 🚀 Projects
 
----
-
 ### 🧩 Frontend Projects (HTML • CSS • JavaScript)  
-[👁️ View All Projects](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-) | [📘 View README](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/README.md)
+[👁️ View All Projects](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-)  | [📘 View README](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/README.md)
+
+---
 
 #### **001-MedRx-Management-Llc**
 Modern corporate frontend website  
@@ -104,7 +124,7 @@ Corporate / business-style frontend website
 ---
 
 #### **003-Mobile-Master**
-E-commerce frontend website for a mobile accessories & repair store  
+E-commerce frontend website  
 **Tech:** HTML • CSS • JavaScript  
 
 [👁️ View](./003-Mobile-Master/MobileMaster-View.png)
