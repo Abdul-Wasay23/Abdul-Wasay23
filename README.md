@@ -38,48 +38,6 @@
 
 ---
 
-## 🔭 Currently Working On
-- Responsive web applications using React & modern JavaScript  
-- UI optimization & performance improvements  
-- API integration and advanced frontend techniques  
-
----
-
-## 🌱 Currently Learning
-- Advanced React & Next.js  
-- Tailwind CSS & modern UI libraries  
-- Backend fundamentals with PHP & Laravel  
-
----
-
-## 👯 Looking to Collaborate On
-- Open-source frontend projects  
-- UI/UX-focused web applications  
-- WordPress & Shopify customizations  
-
----
-
-## 💬 Ask Me About
-- Frontend Development (React, JS, HTML, CSS)  
-- Shopify & WordPress customization  
-- Basic backend integration (PHP & Laravel)  
-
----
-
-## 📫 Contact Me
-- 📧 Email: [wasay4546@gmail.com](mailto:wasay4546@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/abdul-wasay-219709292](https://www.linkedin.com/in/abdul-wasay-219709292/)  
-
----
-
-## 😄 Pronouns
-He / Him  
-
-## ⚡ Fun Fact
-☕ Coffee lover & always experimenting with new UI designs  
-
----
-
 ## 🛠 Skills
 
 ### Frontend
