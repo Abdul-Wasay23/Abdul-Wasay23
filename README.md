@@ -1,7 +1,7 @@
-![Profile Banner](assets/banner/profile-banner.png)
+![Profile Banner](assets/banner/profile-banner.jpg)
 
 # ABDUL WASAY  
-**Frontend Developer | React • JavaScript • UI Engineering**
+**Frontend Developer with 2+ Years Experience**
 
 📍 Karachi, Pakistan  
 Frontend Developer — [ProByte (Pvt) Ltd.](https://www.google.com/search?q=ProByte+Pvt+Ltd+Karachi)
@@ -150,15 +150,6 @@ Salon management system (Academic Project)
 **Tech:** HTML • CSS • JavaScript • PHP • Laravel  
 
 🔗 [GitHub Repository](https://github.com/Abdul-Wasay23/Nuvora-Saloon)
-
----
-
-## Soft Skills
-
-- Teamwork & Collaboration  
-- Problem Solving  
-- UI/UX Thinking  
-- Performance-Oriented Development  
 
 ---
 
