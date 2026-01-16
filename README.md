@@ -1,12 +1,15 @@
-# Abdul Wasay  
+![Profile Banner](assets/banner/profile-banner.png)
+
+# ABDUL WASAY  
 **Frontend Developer | React • JavaScript • UI Engineering**
 
 📍 Karachi, Pakistan  
-💼 Frontend Developer — ProByte (Pvt) Ltd.  
+Frontend Developer — [ProByte (Pvt) Ltd.](https://www.google.com/search?q=ProByte+Pvt+Ltd+Karachi)
 
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](assets/cv/Abdul-Wasay-CV.pdf)
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdul-wasay-219709292/" target="_blank">
@@ -34,17 +37,17 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-Frontend Developer with **2+ years of hands-on experience** building responsive, user-friendly, and performance-optimized web applications using **HTML, CSS, JavaScript, and React.js**.  
+  Frontend Developer with **2+ years of hands-on experience** building responsive, user-friendly, and performance-optimized web applications using **HTML, CSS, JavaScript, and React.js**.  
 
-Skilled in creating optimized UI components, improving website performance and responsiveness. Familiar with **basic backend integration (PHP & Laravel)** and **CMS customization (WordPress & Shopify)**.  
+  Skilled in creating optimized UI components, improving website performance and responsiveness. Familiar with **basic backend integration (PHP & Laravel)** and **CMS customization (WordPress & Shopify)**.  
 
-Currently pursuing **BS Computer Science at SZABIST University (5th Semester)** and passionate about scalable, clean, and high-performance frontend solutions.  
+  Currently pursuing **BS Computer Science at SZABIST University (5th Semester)** and passionate about scalable, clean, and high-performance frontend solutions.  
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Frontend Developer  
 **ProByte (Pvt) Ltd. — Karachi**  
@@ -62,7 +65,7 @@ Currently pursuing **BS Computer Science at SZABIST University (5th Semester)** 
 
 ---
 
-## 🛠 Skills
+## Skills
 
 ### Frontend
 HTML5 • CSS3 • Tailwind CSS • Bootstrap • JavaScript (ES6+) • React.js  
@@ -76,7 +79,7 @@ WordPress • Shopify • Git & GitHub
 
 ---
 
-## 🌍 Languages
+## Languages
 
 <p>
   <img src="assets/icons/html.png" width="32" />
@@ -93,9 +96,9 @@ WordPress • Shopify • Git & GitHub
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🧩 Frontend Projects (HTML • CSS • JavaScript)  
+### Frontend Projects (HTML • CSS • JavaScript)  
 [👁️ View All Projects](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-)  | [📘 View README](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/README.md)
 
 #### **001-MedRx-Management-Llc**
@@ -125,7 +128,7 @@ E-commerce frontend website
 | [⬇️ Download](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/raw/main/003-Mobile-Master/003-Mobile-Master.zip)
 | [📘 README](./003-Mobile-Master/README.md)
 
-### 🎨 Tailwind CSS Projects  
+### Tailwind CSS Projects  
 [👁️ View All Projects](https://github.com/Abdul-Wasay23/Tailwind-Projects) | [📘 View README](https://github.com/Abdul-Wasay23/Tailwind-Projects/blob/main/README.md)
 
 #### **001-Coastal-Beef**
@@ -137,10 +140,10 @@ E-commerce frontend website built with Tailwind CSS
 | [⬇️ Download](https://github.com/Abdul-Wasay23/Tailwind-Projects/raw/main/001-Coastal-Beef/001-Coastal-Beef.zip)
 | [📘 README](https://github.com/Abdul-Wasay23/Tailwind-Projects/blob/main/001-Coastal-Beef/README.md)
 
-### ⚛️ React Projects
-🚧 *Coming soon — building scalable React applications.*
+### React Projects
+ *Coming soon — building scalable React applications.*
 
-### ⚙️ PHP / Laravel Projects
+### PHP / Laravel Projects
 
 #### **Nuvora Saloon**
 Salon management system (Academic Project)  
@@ -150,7 +153,7 @@ Salon management system (Academic Project)
 
 ---
 
-## 🤝 Soft Skills
+## Soft Skills
 
 - Teamwork & Collaboration  
 - Problem Solving  
@@ -159,7 +162,7 @@ Salon management system (Academic Project)
 
 ---
 
-## 📫 Contact Information
+## Contact Information
 
 📍 Karachi, Pakistan  
 📧 **wasay4546@gmail.com**  
