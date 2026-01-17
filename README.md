@@ -21,16 +21,16 @@ Frontend Developer — [ProByte (Pvt) Ltd.](https://www.google.com/search?q=ProB
   <a href="https://abdul-wasay-portfolio-1.netlify.app" target="_blank">
     <img src="assets/icons/portfolio.png" width="32" />
   </a>
-  <a href="mailto:wasay4546@gmail.com">
+  <a href="mailto:wasay4546@gmail.com" target="_blank">
     <img src="assets/icons/email.png" width="32" />
   </a>
-  <a href="tel:+923192020749">
+  <a href="https://wa.me/923192020749" target="_blank">
     <img src="assets/icons/phone.png" width="32" />
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/dev_nest_1?igsh=MTlkbGZlNTlieGR1cw==" target="_blank">
     <img src="assets/icons/instagram.png" width="32" />
   </a>
-  <a href="https://www.facebook.com/" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61569145711515" target="_blank">
     <img src="assets/icons/facebook.png" width="32" />
   </a>
 </p>
