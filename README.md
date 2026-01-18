@@ -6,7 +6,7 @@
 📍 Karachi, Pakistan  
 Frontend Developer — [ProByte (Pvt) Ltd.](https://www.google.com/search?q=ProByte+Pvt+Ltd+Karachi)
 
-[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://raw.githubusercontent.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/main/assets/cv/Abdul-Wasay-CV.pdf)
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://raw.githubusercontent.com/Abdul-Wasay23/Abdul-Wasay23/main/assets/cv/Abdul-Wasay-CV.pdf)
 
 ---
 
