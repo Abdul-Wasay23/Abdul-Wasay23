@@ -100,57 +100,33 @@ WordPress • Shopify • Git & GitHub
 ## Projects
 
 ### Frontend Projects (HTML • CSS • JavaScript)  
-[👁️ View All Projects](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-)  | [📘 View README](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/README.md)
 
-#### **001-MedRx-Management-Llc**
-Modern corporate frontend website  
-**Tech:** HTML • CSS • JavaScript  
+| Project Name | Description | Links |
+|-------------|-------------|-------|
+| **001-MedRx-Management-Llc** | Modern corporate frontend website  <br> • **Tech:** HTML • CSS • JavaScript | [👁️ View](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/001-MedRx-Management-Llc/MedRx-View.jpg) \| [💻 Code](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/tree/main/001-MedRx-Management-Llc) \| [⬇️ Download](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/raw/main/001-MedRx-Management-Llc/001-MedRx-Management-Llc.zip) \| [📘 README](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/001-MedRx-Management-Llc/README.md) |
+| **002-Devnest** | Corporate / business-style frontend website  <br> • **Tech:** HTML • CSS • JavaScript | [👁️ View](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/002-Devnest/Devnest-View.png) \| [💻 Code](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/tree/main/002-Devnest) \| [⬇️ Download](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/raw/main/002-Devnest/002-Devnest.zip) \| [📘 README](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/002-Devnest/README.md) |
+| **003-Mobile-Master** | E-commerce frontend website  <br> • **Tech:** HTML • CSS • JavaScript | [👁️ View](./003-Mobile-Master/MobileMaster-View.png) \| [💻 Code](./003-Mobile-Master) \| [⬇️ Download](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/raw/main/003-Mobile-Master/003-Mobile-Master.zip) \| [📘 README](./003-Mobile-Master/README.md) |
 
-[👁️ View](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/001-MedRx-Management-Llc/MedRx-View.jpg)
-| [💻 Code](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/tree/main/001-MedRx-Management-Llc)
-| [⬇️ Download](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/raw/main/001-MedRx-Management-Llc/001-MedRx-Management-Llc.zip)
-| [📘 README](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/001-MedRx-Management-Llc/README.md)
-
-#### **002-Devnest**
-Corporate / business-style frontend website  
-**Tech:** HTML • CSS • JavaScript  
-
-[👁️ View](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/002-Devnest/Devnest-View.png)
-| [💻 Code](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/tree/main/002-Devnest)
-| [⬇️ Download](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/raw/main/002-Devnest/002-Devnest.zip)
-| [📘 README](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/blob/main/002-Devnest/README.md)
-
-#### **003-Mobile-Master**
-E-commerce frontend website  
-**Tech:** HTML • CSS • JavaScript  
-
-[👁️ View](./003-Mobile-Master/MobileMaster-View.png)
-| [💻 Code](./003-Mobile-Master)
-| [⬇️ Download](https://github.com/Abdul-Wasay23/Frontend-Projects-HTML-CSS-JS-/raw/main/003-Mobile-Master/003-Mobile-Master.zip)
-| [📘 README](./003-Mobile-Master/README.md)
+---
 
 ### Tailwind CSS Projects  
-[👁️ View All Projects](https://github.com/Abdul-Wasay23/Tailwind-Projects) | [📘 View README](https://github.com/Abdul-Wasay23/Tailwind-Projects/blob/main/README.md)
 
-#### **001-Coastal-Beef**
-E-commerce frontend website built with Tailwind CSS  
-**Tech:** HTML • Tailwind CSS • JavaScript  
+| Project Name | Description | Links |
+|-------------|-------------|-------|
+| **001-Coastal-Beef** | E-commerce frontend website built with Tailwind CSS  <br> • **Tech:** HTML • Tailwind CSS • JavaScript | [👁️ View](https://github.com/Abdul-Wasay23/Tailwind-Projects/blob/main/001-Coastal-Beef/Coastal-Beef-Desktop-View.png) \| [💻 Code](https://github.com/Abdul-Wasay23/Tailwind-Projects/tree/main/001-Coastal-Beef) \| [⬇️ Download](https://github.com/Abdul-Wasay23/Tailwind-Projects/raw/main/001-Coastal-Beef/001-Coastal-Beef.zip) \| [📘 README](https://github.com/Abdul-Wasay23/Tailwind-Projects/blob/main/001-Coastal-Beef/README.md) |
 
-[👁️ View](https://github.com/Abdul-Wasay23/Tailwind-Projects/blob/main/001-Coastal-Beef/Coastal-Beef-Desktop-View.png)
-| [💻 Code](https://github.com/Abdul-Wasay23/Tailwind-Projects/tree/main/001-Coastal-Beef)
-| [⬇️ Download](https://github.com/Abdul-Wasay23/Tailwind-Projects/raw/main/001-Coastal-Beef/001-Coastal-Beef.zip)
-| [📘 README](https://github.com/Abdul-Wasay23/Tailwind-Projects/blob/main/001-Coastal-Beef/README.md)
+---
 
 ### React Projects
- *Coming soon — building scalable React applications.*
+*Coming soon — building scalable React applications.*
+
+---
 
 ### PHP / Laravel Projects
 
-#### **Nuvora Saloon**
-Salon management system (Academic Project)  
-**Tech:** HTML • CSS • JavaScript • PHP • Laravel  
-
-🔗 [GitHub Repository](https://github.com/Abdul-Wasay23/Nuvora-Saloon)
+| Project Name | Description | Links |
+|-------------|-------------|-------|
+| **Nuvora Saloon** | Salon management system (Academic Project)  <br> • **Tech:** HTML • CSS • JavaScript • PHP • Laravel | [🔗 GitHub Repository](https://github.com/Abdul-Wasay23/Nuvora-Saloon) |
 
 ---
 
