@@ -112,6 +112,7 @@ WordPress • Shopify • Git & GitHub
     <img src="https://img.shields.io/badge/View%20All%20Projects-2563eb?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ### Tailwind CSS Projects  
