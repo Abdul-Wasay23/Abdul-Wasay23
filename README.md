@@ -137,7 +137,8 @@ WordPress • Shopify • Git & GitHub
 
 | Project Name | Description | Links |
 |-------------|-------------|-------|
-| **Nuvora Saloon** | Salon management system (Academic Project)  <br> • **Tech:** HTML • CSS • JavaScript • PHP • Laravel | [🔗 GitHub Repository](https://github.com/Abdul-Wasay23/Nuvora-Saloon) |
+| **001-Nuvora-Saloon** | Comprehensive Salon management system . <br> • **Tech:** PHP • Laravel • MySQL • MVC | [👁️ View](https://github.com/Abdul-Wasay23/PHP-Laravel-Projects/blob/main/001-Nuvora-Saloon/001-Nuvora-Saloon-Desktop-View.jpg) \| [💻 Code](https://github.com/Abdul-Wasay23/PHP-Laravel-Projects/tree/main/001-Nuvora-Saloon) \| [⬇️ Download](https://github.com/Abdul-Wasay23/PHP-Laravel-Projects/raw/main/001-Nuvora-Saloon/001-Nuvora-Saloon.zip) \| [📘 README](https://github.com/Abdul-Wasay23/PHP-Laravel-Projects/blob/main/001-Nuvora-Saloon/README.md) |
+
 
 ---
 
