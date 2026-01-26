@@ -70,8 +70,9 @@ Frontend Developer — [ProByte (Pvt) Ltd.](https://www.google.com/search?q=ProB
 ## Skills
 
 ### Frontend
-HTML5 • CSS3 • Tailwind CSS • Bootstrap • JavaScript (ES6+) • React.js  
-Responsive Design • Performance Optimization  
+HTML5 • CSS3 • LESS • SASS • Tailwind CSS • Bootstrap • JavaScript (ES6+) • React.js  
+Responsive Design • Performance Optimization
+
 
 ### Backend (Basic)
 PHP • Laravel  
