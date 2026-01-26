@@ -13,28 +13,29 @@ Frontend Developer — [ProByte (Pvt) Ltd.](https://www.google.com/search?q=ProB
 ## Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdul-wasay-219709292/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdul-wasay-219709292/" target="_blank" style="text-decoration:none;">
     <img src="assets/icons/linkedin.png" width="32" />
   </a>
-  <a href="https://github.com/Abdul-Wasay23" target="_blank">
+  <a href="https://github.com/Abdul-Wasay23" target="_blank" style="text-decoration:none;">
     <img src="assets/icons/github.png" width="32" />
   </a>
-  <a href="https://abdul-wasay-portfolio-1.netlify.app" target="_blank">
+  <a href="https://abdul-wasay-portfolio-1.netlify.app" target="_blank" style="text-decoration:none;">
     <img src="assets/icons/portfolio.png" width="32" />
   </a>
-  <a href="mailto:wasay4546@gmail.com" target="_blank">
+  <a href="mailto:wasay4546@gmail.com" target="_blank" style="text-decoration:none;">
     <img src="assets/icons/email.png" width="32" />
   </a>
-  <a href="https://wa.me/923192020749" target="_blank">
+  <a href="https://wa.me/923192020749" target="_blank" style="text-decoration:none;">
     <img src="assets/icons/whattsapp.png" width="32" />
   </a>
-  <a href="https://www.instagram.com/dev_nest_1?igsh=MTlkbGZlNTlieGR1cw==" target="_blank">
+  <a href="https://www.instagram.com/dev_nest_1" target="_blank" style="text-decoration:none;">
     <img src="assets/icons/instagram.png" width="32" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61569145711515" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61569145711515" target="_blank" style="text-decoration:none;">
     <img src="assets/icons/facebook.png" width="32" />
   </a>
 </p>
+
 
 ---
 
