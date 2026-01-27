@@ -55,8 +55,12 @@ Frontend Developer — [ProByte (Pvt) Ltd.](https://www.google.com/search?q=ProB
 **ProByte (Pvt) Ltd. — Karachi**  
 **March 2024 – Present**
 
-- Developed responsive user interfaces using **HTML, CSS, JavaScript & React**
-- Converted **UI/UX designs** into reusable, optimized frontend components
+- Developed responsive and interactive user interfaces using **HTML, CSS, JavaScript & React**  
+- Converted **UI/UX designs** into reusable and optimized frontend components  
+- Worked on **Shopify and WordPress** platforms for building and customizing websites  
+- Collaborated with backend using **Laravel/PHP** and integrated with databases for dynamic content  
+- Assisted in maintaining site performance, **SEO-friendly markup**, and cross-browser compatibility  
+
 
 ### Frontend Developer Intern  
 **ProByte (Pvt) Ltd. — Karachi**  
